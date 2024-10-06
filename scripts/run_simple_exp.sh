@@ -1,0 +1,15 @@
+PYTHONPATH='./qtree' python3 train_ac.py \
+--max_shape 100 \
+--max_epoch 20  \
+--batch 32 \
+--gcn \
+--log_every 1\
+ --hidden 25 \
+ --use_ne  \
+ --prob 0.08 \
+ --use_erdos \
+ --lr 0.1  \
+ --use_small  \
+ --val_every 1 \
+ --seed 142 \
+ --optim adam

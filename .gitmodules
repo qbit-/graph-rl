@@ -1,0 +1,15 @@
+[submodule "thirdparty/pace2017_solvers/tamaki_treewidth"]
+	path = thirdparty/pace2017_solvers/tamaki_treewidth
+	url = https://github.com/TCS-Meiji/PACE2017-TrackA.git
+[submodule "graph_test/pace2017_instances"]
+	path = graph_test/pace2017_instances
+	url = https://github.com/PACE-challenge/Treewidth-PACE-2017-instances.git
+[submodule "graph_test/pace2017_bonus_instances"]
+	path = graph_test/pace2017_bonus_instances
+	url = https://github.com/PACE-challenge/Treewidth-PACE-2017-bonus-instances.git
+[submodule "graph_test/boixo_circuits"]
+	path = graph_test/boixo_circuits
+	url = https://github.com/qbit-/boixo_circuits.git
+[submodule "thirdparty/quickbb"]
+	path = thirdparty/quickbb
+	url = https://github.com/qbit-/quickbb.git
